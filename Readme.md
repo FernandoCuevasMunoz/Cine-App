@@ -43,6 +43,7 @@ Desarrollar un sistema que modele el funcionamiento de un cine, utilizando:
 
 
 src/
+
 ├── app/
 
 │ └── Main.java
